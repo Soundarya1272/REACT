@@ -2,29 +2,6 @@ import React from 'react';
 import {createRoot} from "react-dom/client"
 import S1 from './S1';
 
-// import App from './App';
-// import A1 from './A1';
-// import A2 from './A2';
-// import Netflix from './Netflix';
-// import A3 from './A3';
-import S2 from './S2';
-import S3 from './S3';
-import S4 from './S4';
-import S5 from './S5';
-import S6 from './S6';
-import S7 from './S7';
-import S8 from './S8';
-import S9 from './S9';
-import S10 from './S10';
-import C1 from './C1';
-import C2 from './C2';
-import C3 from './C3';
-import C4 from './C4';
-import C5 from './C5';
-import C7 from './C7';
-import C8 from './C8';
-import C9 from './C9';
-import C10 from './C10';
 
 // createRoot(document.getElementById('root')).render(<App/>)
 // createRoot(document.getElementById("root")).render(<A1/>)

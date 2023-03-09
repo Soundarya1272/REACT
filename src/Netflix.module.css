@@ -1,0 +1,28 @@
+.aa ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 50px;
+    width: 60px;
+    margin: 10px;
+
+} 
+.aa ul li a{
+    text-decoration: none;
+}
+.aa ul li{
+    list-style: none;
+}
+ .ab{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color: black;
+    color: aqua;
+    margin: auto;
+} 
+

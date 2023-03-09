@@ -1,6 +1,7 @@
 import React from "react";
-import STYLE from "./A2.module.css"
-const A2=()=>{
+import STYLE from "./Nav.module.css"
+
+const Nav=()=>{
     return(
         <div className={STYLE.aa}>
 <div>
@@ -26,6 +27,7 @@ const A2=()=>{
         </div>
     )
 }
-export default A2
+
+export default Nav
 
 
